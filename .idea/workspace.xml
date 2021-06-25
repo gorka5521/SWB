@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1bd2396-778e-4c22-9f88-c5b1ce29707a" name="Default Changelist" comment="1" />
+    <list default="true" id="c1bd2396-778e-4c22-9f88-c5b1ce29707a" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/projekt/League/templates/szablon1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projekt/League/templates/szablon1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,7 @@
       <workItem from="1624545134423" duration="10000" />
       <workItem from="1624545153720" duration="11102000" />
       <workItem from="1624561847574" duration="701000" />
-      <workItem from="1624603126452" duration="2817000" />
+      <workItem from="1624603126452" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1624604166866</created>
@@ -89,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624605778391</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1624606136701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606136701</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1624606251030</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624606251030</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
