@@ -20,7 +20,7 @@ from League.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('dupa' , index),
+    path('' , index),
 
 
 
